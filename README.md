@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning mobile development
 - 💞️ I’m looking to collaborate on any project associated with Java, Java FX, Java for Android development and flutter-dart.
-- 📫 How to reach me yaw54779@gmail.com
+- 📫 How to reach me agyinjoseph0@gmail.com
 
 <!---
 Josephagyin/Josephagyin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
